@@ -12,17 +12,5 @@
 
 支持python\c++\matlab.
 
-### 遍历暴力搜索
-
-- python: .\find_nearest_point\TraverseSearch\find_nearest_point.py
-- c++: .\find_nearest_point\TraverseSearch\find_nearest_point.cpp
-
-- matlab: .\find_nearest_point\TraverseSearch\find_nearest_point.m
-
-### KDTree高效搜索（待更新）
-
-- python: .\KDTreeSearch\TraverseSearch\find_nearest_point.py
-- c++: .\KDTreeSearch\TraverseSearch\find_nearest_point.cpp
-
-- matlab: .\KDTreeSearch\TraverseSearch\find_nearest_point.m
+每种语言均提供了暴力遍历搜索和KDtree高效搜索两种搜索方式并进行了耗时对比，同时提供`index_range`参数设置来限制最近点的索引范围。
 
