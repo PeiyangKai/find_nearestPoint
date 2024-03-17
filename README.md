@@ -14,3 +14,6 @@
 
 每种语言均提供了暴力遍历搜索和KDtree高效搜索两种搜索方式并进行了耗时对比，同时提供`index_range`参数设置来限制最近点的索引范围。
 
+## 博客讲解
+https://blog.csdn.net/beiyangxiaokai/article/details/136433611?spm=1001.2014.3001.5502
+感谢大家的支持，欢迎大家点赞关注，star!!!
